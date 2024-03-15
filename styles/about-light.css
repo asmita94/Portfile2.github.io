@@ -1,0 +1,403 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.about-light-UPe {
+  width: 100%;
+  height: 108rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.about-light-UPe .vector-1-MyE {
+  width: 69.3531rem;
+  height: 69.3531rem;
+  position: absolute;
+  left: 0;
+  top: 6.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-light-UPe .vector-5-J7n {
+  width: 45.8776rem;
+  height: 44.6497rem;
+  position: absolute;
+  left: 127.5rem;
+  top: 62.4248rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-light-UPe .group-12-bcg {
+  width: 3.5rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 11.3rem;
+  top: 88.9898rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-light-UPe .group-9-wAk {
+  width: 3.3812rem;
+  height: 3.3797rem;
+  position: absolute;
+  left: 11.3rem;
+  top: 64.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-light-UPe .group-7-5Xr {
+  width: 3.3777rem;
+  height: 3.3797rem;
+  position: absolute;
+  left: 11.3rem;
+  top: 69.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-light-UPe .group-8-RLp {
+  width: 3.3777rem;
+  height: 3.3797rem;
+  position: absolute;
+  left: 11.2rem;
+  top: 74.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-light-UPe .group-10-LCt {
+  width: 3rem;
+  height: 3rem;
+  position: absolute;
+  left: 11.5rem;
+  top: 79.5898rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-light-UPe .group-11-REL {
+  width: 3.3777rem;
+  height: 3.3797rem;
+  position: absolute;
+  left: 11.3112rem;
+  top: 84.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-light-UPe .group-13-ZLY {
+  box-sizing: border-box;
+  padding: 0.1rem 0.5rem 0.089rem 0.5rem;
+  width: 3rem;
+  height: 3rem;
+  position: absolute;
+  left: 11.5rem;
+  top: 94rem;
+  border: solid 0.2rem #000000;
+  border-radius: 1.5rem;
+}
+.about-light-UPe .group-13-ZLY .kooblackiconyxp27c-1-UCc {
+  width: 2rem;
+  height: 2.8115rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1.2rem;
+}
+.about-light-UPe .sinhaanishkumaroutlookcom-Xwa {
+  width: 1.9rem;
+  height: 22.7rem;
+  position: absolute;
+  left: 178.3rem;
+  top: 74.85rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Segoe UI, 'Source Sans Pro';
+}
+.about-light-UPe .line-2-DpQ {
+  width: 2.9991rem;
+  height: 0.5rem;
+  position: absolute;
+  left: 177.8rem;
+  top: 102rem;
+  background-color: #000000;
+}
+.about-light-UPe .group-3-kZS {
+  width: 4rem;
+  height: 4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 176.9rem;
+  top: 5.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-light-UPe .anish-kumar-sinha-HZN {
+  width: 22.9rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 16.7rem;
+  top: 6.1rem;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Segoe UI, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-light-UPe .about-hd6 {
+  width: 5.2rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 115rem;
+  top: 6.5rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Segoe UI, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-light-UPe .frame-2-1tg {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 71.6rem;
+  top: 7.4rem;
+  overflow: hidden;
+}
+.about-light-UPe .home-Jsn {
+  width: 5.2rem;
+  height: 2.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 103.9rem;
+  top: 6.5rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Segoe UI, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.buttons-zje .auto-group-zgjz-Kmv {
+  margin:31rem -24.5rem -24rem 6rem; 
+  width: 17.5rem;
+  height: calc(100% - 0rem);
+  font-size: 2rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #fdfdfd;
+  font-family: Segoe UI, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.3rem #ffffff;
+  box-sizing: border-box;
+  box-shadow: 0 1rem 2.5rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(90deg, #df580c 0%, #fc993d 100%);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.about-light-UPe .resume-RhW {
+  width: 6.9rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 126.1rem;
+  top: 6.5rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Segoe UI, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-light-UPe .projects-jy6 {
+  width: 7rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 149.2rem;
+  top: 6.5rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Segoe UI, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-light-UPe .skills-doa {
+  width: 4.7rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 139rem;
+  top: 6.5rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Segoe UI, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-light-UPe .contact-xL4 {
+  width: 6.8rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 162.4rem;
+  top: 6.5rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Segoe UI, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-light-UPe .group-23-252 {
+  width: 3.5rem;
+  height: 4rem;
+  position: absolute;
+  left: 11.2rem;
+  top: 5.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-light-UPe .group-25-8Nx {
+  width: 104.5rem;
+  height: 56.4rem;
+  position: absolute;
+  left: 39.3rem;
+  top: 5.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.about-light-UPe .group-25-8Nx .auto-group-6esk-q2U {
+  margin: 0rem 7.115rem 3.7rem 0rem;
+  width: calc(100% - 7.1155rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.about-light-UPe .group-25-8Nx .auto-group-6esk-q2U .this-is-it--vpc {
+  margin-right: 9.1248rem;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Segoe UI, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.about-light-UPe .group-25-8Nx .auto-group-6esk-q2U .this-is-it--vpc .this-is-it--vpc-sub-0 {
+  font-size: 6.4rem;
+  font-weight: 600;
+  line-height: 1.1625;
+  color: #000000;
+  font-family: Segoe UI, 'Source Sans Pro';
+}
+.about-light-UPe .group-25-8Nx .auto-group-6esk-q2U .this-is-it--vpc .this-is-it--vpc-sub-1 {
+}
+.about-light-UPe .group-25-8Nx .auto-group-6esk-q2U .line-6-TTA {
+  margin-bottom: 0.6rem;
+  width: 69.7597rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-light-UPe .group-25-8Nx .anish-kr-sinha-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-L1A {
+  margin-bottom: 12.5rem;
+  max-width: 104.5rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Segoe UI, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.about-light-UPe .group-25-8Nx .anish-kr-sinha-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-L1A .anish-kr-sinha-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-L1A-sub-0 {
+}
+.about-light-UPe .group-25-8Nx .anish-kr-sinha-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-L1A .anish-kr-sinha-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-L1A-sub-1 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1625;
+  color: #000000;
+  font-family: Segoe UI, 'Source Sans Pro';
+}
+.about-light-UPe .group-25-8Nx .anish-kr-sinha-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-L1A .anish-kr-sinha-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-L1A-sub-2 {
+}
+.about-light-UPe .group-25-8Nx .anish-kr-sinha-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-L1A .anish-kr-sinha-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-L1A-sub-3 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1625;
+  color: #000000;
+  font-family: Segoe UI, 'Source Sans Pro';
+}
+.about-light-UPe .group-25-8Nx .anish-kr-sinha-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-L1A .anish-kr-sinha-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-L1A-sub-4 {
+}
+.about-light-UPe .group-25-8Nx .anish-kr-sinha-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-L1A .anish-kr-sinha-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-L1A-sub-5 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1625;
+  color: #000000;
+  font-family: Segoe UI, 'Source Sans Pro';
+}
+.about-light-UPe .group-25-8Nx .anish-kr-sinha-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-L1A .anish-kr-sinha-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-L1A-sub-6 {
+}
+.about-light-UPe .group-25-8Nx .anish-kr-sinha-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-L1A .anish-kr-sinha-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-L1A-sub-7 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1625;
+  color: #000000;
+  font-family: Segoe UI, 'Source Sans Pro';
+}
+.about-light-UPe .group-25-8Nx .anish-kr-sinha-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-L1A .anish-kr-sinha-is-an-indian-ui-ux-designer-front-end-developer-with-a-passion-for-designing-beautiful-and-fuctional-user-experiences-typically-hes-driven-permanently-curious-hes-obsessed-with-designing-things-and-even-more-obsessed-with-designing-cool-clean-stuff-for-the-web-and-mobile-he-has-been-in-the-business-of-creating-since-he-hung-his-first-painting-on-the-wall-when-he-was-11-he-holds-a-bachelor-degree-in-computer-applications-during-his-graduation-he-has-been-actively-involved-in-the-web-design-community-for-the-last-3-years-he-has-designed-websites-for-small-businesses-events-nonprofits-and-more-currently-hes-based-in-bihar-india-where-hes-working-as-an-independent-creative-his-interests-however-extend-beyond-the-web-and-he-loves-helping-people-with-branding-and-print-design-he-even-loves-designing-3d-floor-plan-when-hes-not-designing-hes-probably-hanging-out-with-his-girlfriend-watching-series-sketching-or-messing-around-on-something-inspired-by-youtube-tutorials-L1A-sub-8 {
+}
+.about-light-UPe .group-25-8Nx .line-7-6vg {
+  margin-right: 6.5574rem;
+  width: 34.8798rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-light-UPe .rectangle-qNU {
+  width: 58.4789rem;
+  height: 80.3465rem;
+  position: absolute;
+  left: 0;
+  top: 10.0014rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.about-light-UPe .vector-3-M5v {
+  width: 114.3rem;
+  height: 104.7883rem;
+  position: absolute;
+  left: 145.075rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-light-UPe .vector-4-3De {
+  width: 33.8099rem;
+  height: 33.8099rem;
+  position: absolute;
+  left: 30.7644rem;
+  top: 67.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
